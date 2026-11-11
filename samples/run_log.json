@@ -1,0 +1,90 @@
+[
+  {
+    "file": "output_01.png",
+    "pose": "pose_01",
+    "prompt": "A factory worker in a white safety helmet and navy work uniform, full body, inside a bright manufacturing plant. Soft morning light from tall windows on the left. Photorealistic documentary photography, muted industrial color palette.",
+    "seed": 1234,
+    "steps": 20,
+    "guidance": 7.5,
+    "control_scale": 1.0,
+    "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "controlnet": "lllyasviel/control_v11p_sd15_openpose"
+  },
+  {
+    "file": "expA_prompt2.png",
+    "pose": "pose_01",
+    "prompt": "An astronaut in a white space suit, full body, on the gray surface of the moon with the Earth in the black sky. Hard sunlight from the right. Photorealistic cinematic still.",
+    "seed": 1234,
+    "steps": 20,
+    "guidance": 7.5,
+    "control_scale": 1.0,
+    "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "controlnet": "lllyasviel/control_v11p_sd15_openpose"
+  },
+  {
+    "file": "expA_prompt3.png",
+    "pose": "pose_01",
+    "prompt": "A chef in a white uniform and a tall chef hat, full body, in a cozy restaurant kitchen. Warm light from above. Watercolor illustration, soft pastel colors.",
+    "seed": 1234,
+    "steps": 20,
+    "guidance": 7.5,
+    "control_scale": 1.0,
+    "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "controlnet": "lllyasviel/control_v11p_sd15_openpose"
+  },
+  {
+    "file": "output_02.png",
+    "pose": "pose_02",
+    "prompt": "A factory worker in a white safety helmet and navy work uniform, full body, inside a bright manufacturing plant. Soft morning light from tall windows on the left. Photorealistic documentary photography, muted industrial color palette.",
+    "seed": 1234,
+    "steps": 20,
+    "guidance": 7.5,
+    "control_scale": 1.0,
+    "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "controlnet": "lllyasviel/control_v11p_sd15_openpose"
+  },
+  {
+    "file": "output_03.png",
+    "pose": "pose_03",
+    "prompt": "A factory worker in a white safety helmet and navy work uniform, full body, inside a bright manufacturing plant. Soft morning light from tall windows on the left. Photorealistic documentary photography, muted industrial color palette.",
+    "seed": 1234,
+    "steps": 20,
+    "guidance": 7.5,
+    "control_scale": 1.0,
+    "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "controlnet": "lllyasviel/control_v11p_sd15_openpose"
+  },
+  {
+    "file": "expC_scale_0.3.png",
+    "pose": "pose_02",
+    "prompt": "A factory worker in a white safety helmet and navy work uniform, full body, inside a bright manufacturing plant. Soft morning light from tall windows on the left. Photorealistic documentary photography, muted industrial color palette.",
+    "seed": 1234,
+    "steps": 20,
+    "guidance": 7.5,
+    "control_scale": 0.3,
+    "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "controlnet": "lllyasviel/control_v11p_sd15_openpose"
+  },
+  {
+    "file": "expC_scale_1.0.png",
+    "pose": "pose_02",
+    "prompt": "A factory worker in a white safety helmet and navy work uniform, full body, inside a bright manufacturing plant. Soft morning light from tall windows on the left. Photorealistic documentary photography, muted industrial color palette.",
+    "seed": 1234,
+    "steps": 20,
+    "guidance": 7.5,
+    "control_scale": 1.0,
+    "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "controlnet": "lllyasviel/control_v11p_sd15_openpose"
+  },
+  {
+    "file": "expC_scale_1.6.png",
+    "pose": "pose_02",
+    "prompt": "A factory worker in a white safety helmet and navy work uniform, full body, inside a bright manufacturing plant. Soft morning light from tall windows on the left. Photorealistic documentary photography, muted industrial color palette.",
+    "seed": 1234,
+    "steps": 20,
+    "guidance": 7.5,
+    "control_scale": 1.6,
+    "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "controlnet": "lllyasviel/control_v11p_sd15_openpose"
+  }
+]
